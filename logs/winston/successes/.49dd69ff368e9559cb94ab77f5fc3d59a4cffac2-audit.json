@@ -29,6 +29,11 @@
             "date": 1686034930820,
             "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\phu-2023-06-06-13-error.log",
             "hash": "37fd646bc6842031e7d23f51bf22a54034a728c940c5fc2bdbb956ac4b07c77b"
+        },
+        {
+            "date": 1686491245410,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\phu-2023-11-06-19-error.log",
+            "hash": "b249c64cea4aaeafa0c9ed3be82c6a72efa35802794acc901109298fe9805a97"
         }
     ],
     "hashType": "sha256"
