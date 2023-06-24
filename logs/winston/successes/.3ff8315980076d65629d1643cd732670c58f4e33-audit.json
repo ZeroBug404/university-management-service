@@ -6,31 +6,6 @@
     "auditLog": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\.3ff8315980076d65629d1643cd732670c58f4e33-audit.json",
     "files": [
         {
-            "date": 1686021716825,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\phu-2023-06-06-09-success.log",
-            "hash": "a6e475f2ef416603e70b4c523b3e40c343ccf4731ea2195a998a6af2f0f3523a"
-        },
-        {
-            "date": 1686024773885,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\phu-2023-06-06-10-success.log",
-            "hash": "d22ed7c3b1c6daa6b10fb7b20862ef87e105c0da7f2cef4720f2f236f3a36da4"
-        },
-        {
-            "date": 1686029315085,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\phu-2023-06-06-11-success.log",
-            "hash": "e7a3558eb71852305c3ad215b1c12c6b039344911f8775a96a5f1ab755b9e18f"
-        },
-        {
-            "date": 1686031382216,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\phu-2023-06-06-12-success.log",
-            "hash": "8f0f2bb49aa6640f74b36f7b592c52cfe0a8059eed8279ba4c77e342f893448b"
-        },
-        {
-            "date": 1686034930791,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\phu-2023-06-06-13-success.log",
-            "hash": "59af0433d9cd71b0fa44bf5f12da1320ecfbbccd6b27b0169921ac58f3947855"
-        },
-        {
             "date": 1686491245338,
             "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\phu-2023-11-06-19-success.log",
             "hash": "ed282ff5c2dcbd41b40188c089d18ba9e037a96148fa2b15a0dc5a2dc9fcd0ec"
@@ -164,6 +139,71 @@
             "date": 1686762902289,
             "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\phu-2023-14-06-23-success.log",
             "hash": "5029dc793128161698740797c704e7365d5c2cba0097c8f0efb781e49ee64ba0"
+        },
+        {
+            "date": 1686775555988,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\phu-2023-15-06-02-success.log",
+            "hash": "adc5cf384d419279c2110a6d95844d177cef23e5c2a2b19a2d5f2ebe7caea310"
+        },
+        {
+            "date": 1686776400579,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\phu-2023-15-06-03-success.log",
+            "hash": "ef2bbb6dddcaec5241c2d6a426c0bdac69c25c685d9e82b380a939197d4c8344"
+        },
+        {
+            "date": 1687499721465,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\phu-2023-23-06-11-success.log",
+            "hash": "4c61512d5733af33d63f4a7a3b18212378164a10f000fa14300e1dcd7e1e5f6b"
+        },
+        {
+            "date": 1687500213655,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\phu-2023-23-06-12-success.log",
+            "hash": "f9f66d373309d85e1d177aed8ca8aa52859aacfb448ea1b4514733e3a6709d61"
+        },
+        {
+            "date": 1687506485248,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\phu-2023-23-06-13-success.log",
+            "hash": "e1abafc3d8a0e0976486fb1d2ef9be918836ece760cd09b82222620ab54fe7ff"
+        },
+        {
+            "date": 1687507747475,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\phu-2023-23-06-14-success.log",
+            "hash": "0269c84f73d6aabc026b621288761955e3b3e554a805bc3d846daf7bf87f4ba7"
+        },
+        {
+            "date": 1687516033912,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\phu-2023-23-06-16-success.log",
+            "hash": "07782bd7324efa64d92c758d03b96342529a0789f23ca83f9ed43d01b410c675"
+        },
+        {
+            "date": 1687578554585,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\phu-2023-24-06-09-success.log",
+            "hash": "0355f961ca8eb9fc243f0de601b6b3a9a116aac18d053729f6c1fdd68dbb0a6e"
+        },
+        {
+            "date": 1687579310412,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\phu-2023-24-06-10-success.log",
+            "hash": "3d338d1cb452d32636238d1d776cf36c1705ddcf4fa00901b2ace8d8de6a5cd9"
+        },
+        {
+            "date": 1687582806488,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\phu-2023-24-06-11-success.log",
+            "hash": "29a521f9b46889c2961ffeb6d0b085fa7b0e9b2de44417e9370f20e0bf55e78f"
+        },
+        {
+            "date": 1687595897717,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\phu-2023-24-06-14-success.log",
+            "hash": "a72c920dadf8483306dea9b4efa00a5c2903e03127709119ded455f09351ed21"
+        },
+        {
+            "date": 1687604502738,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\phu-2023-24-06-17-success.log",
+            "hash": "1bf7533a0ab7cdf577fa8f430c6a3dbe14289f51a63be3b945934ff028e7448f"
+        },
+        {
+            "date": 1687623139116,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\successes\\phu-2023-24-06-22-success.log",
+            "hash": "07ab78a29c26b9887e69da86c701f2b3d7b7130223c94e1a980f18fb0fc95c98"
         }
     ],
     "hashType": "sha256"
