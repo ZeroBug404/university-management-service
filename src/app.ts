@@ -8,16 +8,14 @@ const app: Application = express();
 import httpStatus from 'http-status';
 import globalErrorHandler from './app/middlewares/globalErrorHandler';
 import routes from './app/routes';
+import cookieParser from 'cookie-parser';
 
 app.use(cors());
 
 //parser
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-
-// Application Routes
-// app.use('/api/v1/users/', UserRoutes)
-// app.use('/api/v1/academic-semesters/', AcademicSemesterRoutes)
+app.use(cookieParser());
 
 app.use('/api/v1/', routes);
 

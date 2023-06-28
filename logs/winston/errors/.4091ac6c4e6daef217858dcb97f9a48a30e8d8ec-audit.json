@@ -6,111 +6,6 @@
     "auditLog": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\.4091ac6c4e6daef217858dcb97f9a48a30e8d8ec-audit.json",
     "files": [
         {
-            "date": 1686491595324,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-11-06-19-error.log",
-            "hash": "b33685ed1d999295f3c5d69dae87cfaa457dd96fbfc1a154147233f4c2a38a2d"
-        },
-        {
-            "date": 1686492035297,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-11-06-20-error.log",
-            "hash": "732296c5e2149d4ae103b075187e398e61b37a04fbd64696676eb2e15bf42653"
-        },
-        {
-            "date": 1686495622158,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-11-06-21-error.log",
-            "hash": "f3b33fc1341b333ab5f47c09a40550cec8458d6cb03553919f89370e50ab45e2"
-        },
-        {
-            "date": 1686499232270,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-11-06-22-error.log",
-            "hash": "5ef649f63da49e5c6e7f56ce35998facdd7b5b0a09160f19942b6f6338de7ffa"
-        },
-        {
-            "date": 1686508658274,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-12-06-00-error.log",
-            "hash": "e0875110872417297f8b764e023748ecd60744765fa1d6dd53e3b85672c7027b"
-        },
-        {
-            "date": 1686510674996,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-12-06-01-error.log",
-            "hash": "651d7f31cf39a7735c3fb1a7ed2a4cfbcbb7df59bd0e78c9ad47885dc3539d64"
-        },
-        {
-            "date": 1686563922234,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-12-06-15-error.log",
-            "hash": "c0c9ffd4201d6544e14651b5def514673dabc1461bcc8b9ef361883705e2b2fc"
-        },
-        {
-            "date": 1686564310681,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-12-06-16-error.log",
-            "hash": "bfd4b53d48453eacce9a12e22758846f2e5c7b38547853f4d7718d5e0ee4b906"
-        },
-        {
-            "date": 1686568284415,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-12-06-17-error.log",
-            "hash": "b01ecb4cb660fe3965210720313b128c0749f01e24c79e5bf41ba6e249f4aa5d"
-        },
-        {
-            "date": 1686580312405,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-12-06-20-error.log",
-            "hash": "f34f957b457551a7e1c57040f520108b08b23319aeba67db77f4fdf40f244d22"
-        },
-        {
-            "date": 1686582000670,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-12-06-21-error.log",
-            "hash": "228b2d3e31c040692380e2cd4108737a787d8325120265f0fef47dda6c0c1899"
-        },
-        {
-            "date": 1686585978325,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-12-06-22-error.log",
-            "hash": "cab12fed4b3f6e1bde85f1c5e0d0350a6fb5f17075d9d0fbd1b679b1146de239"
-        },
-        {
-            "date": 1686591176603,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-12-06-23-error.log",
-            "hash": "b3450858558c41f5cfe808dc390a3f35b4adcf226ed748fb7deaa04da4407129"
-        },
-        {
-            "date": 1686593750824,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-13-06-00-error.log",
-            "hash": "20773a1bca932d3362910fb5ecbda2c8ddc07242b95e6da7f76e817bccfabe23"
-        },
-        {
-            "date": 1686658289191,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-13-06-18-error.log",
-            "hash": "8400a878d90bbe3800c933469ef5cff141b06a9fb68154eea98841cfce46a92a"
-        },
-        {
-            "date": 1686661654040,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-13-06-19-error.log",
-            "hash": "d405f3a34a908bffc562f9e0f976a46012b3d64be09cf893c43a32dfff94ce7d"
-        },
-        {
-            "date": 1686705229568,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-14-06-07-error.log",
-            "hash": "d99f78bd84e2c4e0492e2751ad94e1ef7215d9823cfdba342621147c2a986a82"
-        },
-        {
-            "date": 1686708021102,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-14-06-08-error.log",
-            "hash": "e128b72945c2ff9ba9e5e534d5443c39965c3508533dc74c055995d8978b4881"
-        },
-        {
-            "date": 1686725923926,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-14-06-12-error.log",
-            "hash": "779ee89632995825ccec9ff0d9c115a798fbe959ba8d36cfec7d1be9aef6e57d"
-        },
-        {
-            "date": 1686726041241,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-14-06-13-error.log",
-            "hash": "9da9423d7c26c9cff6a22bd49a396e34f63025ba60f551384bfdeff919a50952"
-        },
-        {
-            "date": 1686729671644,
-            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-14-06-14-error.log",
-            "hash": "97eb2b6786d4e6328055063accb617189a7d5d73a7a9ca91f1f43dd387cc14aa"
-        },
-        {
             "date": 1686735451271,
             "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-14-06-15-error.log",
             "hash": "0214c05358e9c7c12c4b91fa90a4fda991e8d378c2f7cf76018580c672fdfb69"
@@ -219,6 +114,71 @@
             "date": 1687680790543,
             "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-25-06-14-error.log",
             "hash": "54add0489e97edb5b10c93654f92bcf4842003003e42301919ec15c36892b3e8"
+        },
+        {
+            "date": 1687686279671,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-25-06-15-error.log",
+            "hash": "6978faf47296ed866bf864afd8a23395687639d682304a537ce1be788d9eb444"
+        },
+        {
+            "date": 1687709021247,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-25-06-22-error.log",
+            "hash": "7d81b2dec84df5c0ee6f2e62c4185574eb2eabf92626da549d618d870869e01d"
+        },
+        {
+            "date": 1687802696192,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-27-06-00-error.log",
+            "hash": "e31b86e522987da13c18b6b7404f29fa1af776a5523182eefb77332ad16dcd21"
+        },
+        {
+            "date": 1687815152553,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-27-06-03-error.log",
+            "hash": "1a06d6b07cd28bbbe28ae0810cb8016c6a37c88ff9df569a9cc65249f99e3249"
+        },
+        {
+            "date": 1687816850689,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-27-06-04-error.log",
+            "hash": "82b3623e626a9b469643ba88b917ca782fba79b8eef412f72b9dc8070d8d489e"
+        },
+        {
+            "date": 1687843861241,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-27-06-11-error.log",
+            "hash": "b136ebc591e3e60814614a1940ce7f3001f83f93d7eba7f93ff436b8011f52f5"
+        },
+        {
+            "date": 1687860712320,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-27-06-16-error.log",
+            "hash": "5e5218be55dc770e3eb61c3094d235df0df966be1c69594f53dc7cb3138e2944"
+        },
+        {
+            "date": 1687863610862,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-27-06-17-error.log",
+            "hash": "9d06dc52d9c6e9ad37dc7a62c16626b268ae4628046af71c6a6c9b0e1bd70551"
+        },
+        {
+            "date": 1687886113066,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-27-06-23-error.log",
+            "hash": "b9719b6b4e2b5bbb9519c9a3e53d5375eb75011145a2c854b3e8b8d6a849f83c"
+        },
+        {
+            "date": 1687893932337,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-28-06-01-error.log",
+            "hash": "afc80bea640965462b0e7dbf1b7dcbc1baf587a4ca5b571a181982b53c7ee5fc"
+        },
+        {
+            "date": 1687928771665,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-28-06-11-error.log",
+            "hash": "7f9b1bc94f3f6c717833cb51699640aa5338265e78928d7fe6b32db2e4b263fc"
+        },
+        {
+            "date": 1687932019292,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-28-06-12-error.log",
+            "hash": "4d18254539313b85735dd1e96d0606bf78e784756db3967c0209ffc30cf39ee5"
+        },
+        {
+            "date": 1687941070376,
+            "name": "D:\\WebDev_Level-2\\Backend-brainaic\\university-management-service\\logs\\winston\\errors\\phu-2023-28-06-14-error.log",
+            "hash": "3ce9db86111f9d92396c3355a3cc4156481cc8d1c480fa6e89ac3325f1e5c966"
         }
     ],
     "hashType": "sha256"
